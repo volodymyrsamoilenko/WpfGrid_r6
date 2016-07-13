@@ -1,0 +1,14 @@
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\bin\Debug\WpfGrid_r6.exe.config
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\bin\Debug\WpfGrid_r6.exe
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\bin\Debug\WpfGrid_r6.pdb
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6.csprojResolveAssemblyReference.cache
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\MainWindow.g.cs
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\App.g.cs
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6_MarkupCompile.cache
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6_MarkupCompile.lref
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\MainWindow.baml
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6.g.resources
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6.Properties.Resources.resources
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6.csproj.GenerateResource.Cache
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6.exe
+c:\users\nony\documents\visual studio 2015\Projects\WpfGrid_r6\WpfGrid_r6\obj\Debug\WpfGrid_r6.pdb
